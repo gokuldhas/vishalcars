@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "678367697254",
+    "project_id": "vishalcabservice-2faf9",
+    "storage_bucket": "vishalcabservice-2faf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678367697254:android:c79fc493afe576a13c10a7",
+        "android_client_info": {
+          "package_name": "com.example.vishalcars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678367697254-4vkjkopugvacqiij1hv0ekjkn24hfcvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHTDgkJwsQV01Nk4rSwPBZSzRhva2pqSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678367697254-4vkjkopugvacqiij1hv0ekjkn24hfcvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
